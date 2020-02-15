@@ -1,0 +1,9 @@
+﻿  moc Window.hpp
+  moc OutputDialog.hpp
+  main.cpp
+  OutputDialog.cpp
+  Window.cpp
+  qrc_QMainWindow.cpp
+  moc_Window.cpp
+  moc_OutputDialog.cpp
+  ZeroClassGenerator.vcxproj -> C:\Users\Megaport\source\repos\ZeroClassGenerator\x64\Debug\ZeroClassGenerator.exe

@@ -1,0 +1,12 @@
+﻿  uic QMainWindow.ui
+  rcc QMainWindow.qrc
+  moc Window.hpp
+   RCC: Warning: No resources in 'C:\Users\Megaport\source\repos\ZeroClassGenerator\ZeroClassGenerator\QMainWindow.qrc'.
+  moc OutputDialog.hpp
+  main.cpp
+  OutputDialog.cpp
+  Window.cpp
+  qrc_QMainWindow.cpp
+  moc_Window.cpp
+  moc_OutputDialog.cpp
+  ZeroClassGenerator.vcxproj -> C:\Users\Megaport\source\repos\ZeroClassGenerator\x64\Release\ZeroClassGenerator.exe
